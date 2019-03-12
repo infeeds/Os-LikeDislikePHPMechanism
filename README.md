@@ -1,4 +1,4 @@
-## Infeeds Voting Mechanism Basics
+# Infeeds Voting Mechanism Basics
 Backend of Infeeds Voting Algorithm. It is a simple git to help understand how different scripts work in sync with each other to get wonderful results.
 
 ## Contents
